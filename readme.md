@@ -33,6 +33,7 @@ A deep learning model capable of identifying various solid waste items such as g
 | __Inception__  | __0.972656__ |  40m 56s |
 
 ![graph](https://imgur.com/M4oRGEN.png)
+
 _*Can be reduced using more powerful GPUs, reducing its importance for now._
 
 ## To Do
