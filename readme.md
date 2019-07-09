@@ -32,13 +32,12 @@ A deep learning model capable of identifying various solid waste items such as g
 | Densenet   | 0.964844 | 29m 34s  |
 | __Inception__  | __0.972656__ |  40m 56s |
 
-_*Can be reduced using more powerful GPUs, reducing its importance for now._
-
 ![graph](https://imgur.com/M4oRGEN.png)
+_*Can be reduced using more powerful GPUs, reducing its importance for now._
 
 ## To Do
 - [x] Try with various architectures
 - [ ] Save and export model for post-training evaluation to finetune hyperperameters
 
 ## Acknowledgements
-Thank you @garythung for the dataset and @mpcrlab for the help
+Thank you [@garythung](https://github.com/garythung) for the dataset and [@mpcrlab](https://github.com/mpcrlab) for the help
